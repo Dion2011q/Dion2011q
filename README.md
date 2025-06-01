@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey there! I'm Dion
 
-<!--
-**Dion2011q/Dion2011q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a 14-year-old developer from the Netherlands 🇳🇱. I love building websites, tweaking audio setups, and modding Minecraft servers in my free time. I'm always learning new things and exploring creative projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎨 Junior graphic designer in the making  
+- 🛠️ Passionate about tech, sound, and customization  
+- 💻 Mostly working with HTML, CSS, JS, PHP, and some Python
+
+---
+
+## 🧰 My Skills
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,python)
+
+---
+
+## 📂 Projects I'm Proud Of
+
+- 🌐 [Trimsalon AF!](https://trimsalonaf.nl/)
+- 🌐 [**Responsive Geocraft project website** built from scratch](https://projectdalen.pages.dev)
+- 🧱 **1:1 scale Minecraft village (GeoCraft)** – attention to detail is key!  
+- 📹 **Music video projects** with synced lyrics  
+
+---
+
+## 📫 How to Reach Me
+
+- 📨 DM me here on GitHub or on Discord
+- 🛠️ Or check out what I'm working on below 👇  
+
