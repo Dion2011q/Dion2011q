@@ -34,6 +34,6 @@ Welcome to my GitHub profile! I'm a 14-year-old developer from the Netherlands �
 
 ## 📫 How to Reach Me
 
-- 📨 DM me here on GitHub or on Discord
+- 📨 DM me on Discord [My Discord](https://github.com/dion2011q#:~:text=https%3A//discord.com/users/1092769673289945088)
 - 🛠️ Or check out what I'm working on below 👇  
 
