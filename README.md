@@ -1,7 +1,10 @@
 # 👋 Hey there! I'm Dion
 -
+
 Welcome to my GitHub profile! I'm a 14-year-old developer from the Netherlands 🇳🇱. I love building websites, tweaking audio setups, and modding Minecraft servers in my free time. I'm always learning new things and exploring creative projects.
+
 -
+
 ![Dion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dion2011q&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dion2011q&layout=compact&theme=github_dark)
 
