@@ -17,6 +17,8 @@ Welcome to my GitHub profile! I'm a 14-year-old developer from the Netherlands ð
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,python)
 -
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)
+-
+![My Skills](https://skillicons.dev/icons?i=vscode,discord,bots,git,github,powershell)
 
 ---
 
