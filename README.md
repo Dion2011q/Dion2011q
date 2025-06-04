@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a 14-year-old developer from the Netherlands �
 
 - 🌐 [Trimsalon AF!](https://trimsalonaf.nl/)
 - 🌐 [**Responsive Geocraft project website** built from scratch](https://projectdalen.pages.dev)
+- 🌐 [Quest for today](https://quest-for-today.web.app/)
 - 🧱 **1:1 scale Minecraft village (GeoCraft)** – attention to detail is key!  
 - 📹 **Music video projects** with synced lyrics  
 
