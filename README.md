@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Dion
+# 👋 Hello world! I'm Dion
 
 Welcome to my GitHub profile! I'm a 14-year-old developer from the Netherlands 🇳🇱. I love building websites, tweaking audio setups, and modding Minecraft servers in my free time. I'm always learning new things and exploring creative projects.
 
