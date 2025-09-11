@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a Web developer from the Netherlands 🇳🇱.
 
 ## 🚀 About Me
 
-- 🎨 Junior graphic designer in the making  
+- 🎨 Experienced **web** designer and developer
 - 🛠️ Passionate about tech, sound, and customization  
-- 💻 Mostly working with HTML, CSS, JS, PHP, and some Python
+- 💻 Mostly working with HTML, CSS, JS, NodeJS, and some Python
 
 ---
 
