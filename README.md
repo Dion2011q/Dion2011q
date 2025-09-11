@@ -2,7 +2,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dion2011q&style=for-the-badge)
 
 Welcome to my GitHub profile! I'm a Web developer from the Netherlands 🇳🇱. I love building websites, tweaking audio setups, and modding Minecraft servers in my free time. I'm always learning new things. :)
--
+
+---
+
 ![Dion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dion2011q&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dion2011q&layout=compact&theme=github_dark)
 
@@ -18,7 +20,7 @@ Welcome to my GitHub profile! I'm a Web developer from the Netherlands 🇳🇱.
 
 ## 🧰 My Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,wordpress,python)
 -
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)
 -
