@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a Web developer from the Netherlands 🇳🇱.
 
 ## 🧰 My Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,wordpress,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,cpp,wordpress,python)
 -
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)
 -
