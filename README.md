@@ -30,11 +30,13 @@ Welcome to my GitHub profile! I'm a Web developer from the Netherlands 🇳🇱.
 
 ## 📂 Projects I'm Proud Of
 
-- 🌐 [Trimsalon AF!](https://trimsalonaf.nl/)
-- 🌐 [**Responsive Geocraft project website** built from scratch](https://projectdalen.pages.dev)
-- 🌐 [Quest for today](https://quest-for-today.web.app/)
-- 🧱 **1:1 scale Minecraft village (GeoCraft)** – attention to detail is key!  
-- 📹 **Music video projects** with synced lyrics  
+- [Trimsalon AF!](https://trimsalonaf.nl/)
+- [**Responsive Geocraft project website** built from scratch](https://projectdalen.pages.dev)
+- [DionWeb](https://dionweb.pages.dev/)
+- **1:1 scale Minecraft village (GeoCraft)**
+- My Homelab
+
+<img width="1174" height="727" alt="homelab" src="https://github.com/user-attachments/assets/425aa51b-5624-441f-aa20-350d43926113" />
 
 ---
 
