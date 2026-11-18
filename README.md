@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a Web developer from the Netherlands 🇳🇱.
 
 ## 🚀 About Me
 
-- 🎨 Experienced **web** designer and developer
-- 🛠️ Passionate about tech, sound, and customization  
-- 💻 Mostly working with HTML, CSS, JS, NodeJS, and some Python
+- Experienced **web** designer and developer
+-  Passionate about tech, sound, and customization  
+- Mostly working with HTML, CSS, JS, NodeJS, and some Python
 
 ---
 
